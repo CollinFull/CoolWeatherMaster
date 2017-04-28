@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mine_avatar.jpg",
+        "source": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\src\\main\\res\\drawable-hdpi\\mine_avatar.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cool_weather_icon.jpg",
+        "source": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\src\\main\\res\\drawable-hdpi\\cool_weather_icon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\welcome.jpg",
+        "source": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\src\\main\\res\\drawable-hdpi\\welcome.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\left_layout_bg.jpg",
+        "source": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\src\\main\\res\\drawable-hdpi\\left_layout_bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\weather.jpg",
+        "source": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\src\\main\\res\\drawable-hdpi\\weather.jpg"
+    }
+]

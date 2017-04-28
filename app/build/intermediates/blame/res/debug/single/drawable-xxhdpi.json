@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\guano_icon.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\src\\main\\res\\drawable-xxhdpi\\guano_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\homep_titlebt_add_pressed.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\src\\main\\res\\drawable-xxhdpi\\homep_titlebt_add_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_default_status.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\src\\main\\res\\drawable-xxhdpi\\ic_default_status.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\homep_titlebt_add_normal.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\src\\main\\res\\drawable-xxhdpi\\homep_titlebt_add_normal.png"
+    }
+]
