@@ -1,18 +1,22 @@
 [
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\skin_img_item_background_normal.9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\src\\main\\res\\drawable-hdpi\\skin_img_item_background_normal.9.png"
+        "merged": "D:\\github\\CoolWeatherMaster\\CoolWeatherMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\skin_img_item_background_normal.9.png",
+        "source": "D:\\github\\CoolWeatherMaster\\CoolWeatherMaster\\app\\src\\main\\res\\drawable-hdpi\\skin_img_item_background_normal.9.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\skin_img_item_background_selected.9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\src\\main\\res\\drawable-hdpi\\skin_img_item_background_selected.9.png"
+        "merged": "D:\\github\\CoolWeatherMaster\\CoolWeatherMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\skin_img_item_background_selected.9.png",
+        "source": "D:\\github\\CoolWeatherMaster\\CoolWeatherMaster\\app\\src\\main\\res\\drawable-hdpi\\skin_img_item_background_selected.9.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+        "merged": "D:\\github\\CoolWeatherMaster\\CoolWeatherMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\skin_ico_checked.png",
+        "source": "D:\\github\\CoolWeatherMaster\\CoolWeatherMaster\\app\\src\\main\\res\\drawable-hdpi\\skin_ico_checked.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\skin_ico_checked.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\src\\main\\res\\drawable-hdpi\\skin_ico_checked.png"
+        "merged": "D:\\github\\CoolWeatherMaster\\CoolWeatherMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\cool_weather_icon.png",
+        "source": "D:\\github\\CoolWeatherMaster\\CoolWeatherMaster\\app\\src\\main\\res\\drawable-hdpi\\cool_weather_icon.png"
+    },
+    {
+        "merged": "D:\\github\\CoolWeatherMaster\\CoolWeatherMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\github\\CoolWeatherMaster\\CoolWeatherMaster\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     }
 ]

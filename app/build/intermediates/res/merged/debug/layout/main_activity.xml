@@ -85,8 +85,7 @@
             android:text="生活指数"
             android:onClick="onClick"
             android:textSize="18sp" />
-
-        <Button
+    <!--<Button
             android:id="@+id/btn_change_bag"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -97,13 +96,14 @@
             android:padding="10dp"
             android:text="更换皮肤"
             android:onClick="onClick"
-            android:textSize="18sp" />
+            android:textSize="18sp" />-->
+
 
         <Button
             android:id="@+id/btn_share_app"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_below="@id/btn_change_bag"
+            android:layout_below="@id/btn_life"
             android:background="@drawable/drawerlayout_bt_bg"
             android:drawableLeft="@drawable/ic_dl_green_m"
             android:gravity="center"

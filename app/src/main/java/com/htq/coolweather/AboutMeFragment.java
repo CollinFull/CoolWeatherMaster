@@ -24,8 +24,10 @@ public class AboutMeFragment extends Fragment {
     }
 
     private void initView() {
-        TextView aboutMeTv = (TextView) baseView.findViewById(R.id.about_me_tv);
-        Linkify.addLinks(aboutMeTv, Linkify.ALL);
+        TextView aboutGroup = (TextView) baseView.findViewById(R.id.about_me_tv);
+        Linkify.addLinks(aboutGroup, Linkify.ALL);
+        TextView aboutMem = (TextView) baseView.findViewById(R.id.about_me_tv1);
+        Linkify.addLinks(aboutMem, Linkify.ALL);
     }
 
 }

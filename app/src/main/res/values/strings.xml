@@ -32,8 +32,10 @@
     <string name="input_truename">请输入正确的城市名</string>
     <string name="city_default">武汉</string>
     <string name="set_normal">设为默认</string>
-    <string name="slogan">简约 好用的天气APP</string>
+    <string name="slogan">简约 好用的个人APP</string>
     <string name="add_city_text">热门城市</string>
     <string name="loading">加载中</string>
-
+    <string name="groupdes">团队：金州大组</string>
+    <string name="groupnum">成员：王一鸣（组长）、王 昊 、沈 力、王星河 、
+        鲍  瑞、唐超旭 、王健林、李思远 、张  恒 、范禄林、付晓峰</string>
 </resources>

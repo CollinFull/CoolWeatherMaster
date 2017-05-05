@@ -21,6 +21,9 @@
     <string name="color_red">#FF0000</string>
     <string name="edittext_hint">请输入城市名</string>
     <string name="getdata_fail">获取数据失败</string>
+    <string name="groupdes">团队：金州大组</string>
+    <string name="groupnum">成员：王一鸣（组长）、王 昊 、沈 力、王星河 、
+        鲍  瑞、唐超旭 、王健林、李思远 、张  恒 、范禄林、付晓峰</string>
     <string name="input_truename">请输入正确的城市名</string>
     <string name="loading">加载中</string>
     <string name="net_fail">网络请求失败</string>
@@ -33,17 +36,13 @@
     <string name="pollution_no">空气清新</string>
     <string name="search">查询</string>
     <string name="set_normal">设为默认</string>
-    <string name="slogan">简约 好用的天气APP</string>
+    <string name="slogan">简约 好用的个人APP</string>
     <string name="today_can">生活指数</string>
     <string name="weather">天气预报</string>
     <style name="AppBaseTheme" parent="android:Theme.Light">
-        <!--
-            Theme customizations available in newer API levels can go in
-            res/values-vXX/styles.xml, while customizations related to
-            backward-compatibility can go here.
-        -->
+        
     </style>
     <style name="AppTheme" parent="AppBaseTheme">
-        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        
     </style>
 </resources>

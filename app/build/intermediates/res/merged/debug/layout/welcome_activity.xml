@@ -44,5 +44,5 @@
         android:layout_centerHorizontal="true"
         android:textSize="14sp"
         android:textColor="#000"
-        android:text="@string/author" />
+        android:text="酷我天气 @金州大组" />
 </RelativeLayout>

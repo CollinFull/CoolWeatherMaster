@@ -1,82 +1,82 @@
 [
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_content_activity.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\src\\main\\res\\layout\\include_content_activity.xml"
+        "merged": "D:\\github\\CoolWeatherMaster\\CoolWeatherMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_content_activity.xml",
+        "source": "D:\\github\\CoolWeatherMaster\\CoolWeatherMaster\\app\\src\\main\\res\\layout\\include_content_activity.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\build\\intermediates\\res\\merged\\debug\\layout\\welcome_activity.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\src\\main\\res\\layout\\welcome_activity.xml"
+        "merged": "D:\\github\\CoolWeatherMaster\\CoolWeatherMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_gridview_addcity.xml",
+        "source": "D:\\github\\CoolWeatherMaster\\CoolWeatherMaster\\app\\src\\main\\res\\layout\\item_gridview_addcity.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_title_activity.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\src\\main\\res\\layout\\include_title_activity.xml"
+        "merged": "D:\\github\\CoolWeatherMaster\\CoolWeatherMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\citymanager_activity.xml",
+        "source": "D:\\github\\CoolWeatherMaster\\CoolWeatherMaster\\app\\src\\main\\res\\layout\\citymanager_activity.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\build\\intermediates\\res\\merged\\debug\\layout\\homepager_activity.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\src\\main\\res\\layout\\homepager_activity.xml"
+        "merged": "D:\\github\\CoolWeatherMaster\\CoolWeatherMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_activity_net_error.xml",
+        "source": "D:\\github\\CoolWeatherMaster\\CoolWeatherMaster\\app\\src\\main\\res\\layout\\main_activity_net_error.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\build\\intermediates\\res\\merged\\debug\\layout\\addcity_activity.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\src\\main\\res\\layout\\addcity_activity.xml"
+        "merged": "D:\\github\\CoolWeatherMaster\\CoolWeatherMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\welcome_activity.xml",
+        "source": "D:\\github\\CoolWeatherMaster\\CoolWeatherMaster\\app\\src\\main\\res\\layout\\welcome_activity.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_activity.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\src\\main\\res\\layout\\main_activity.xml"
+        "merged": "D:\\github\\CoolWeatherMaster\\CoolWeatherMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\change_background_fragment.xml",
+        "source": "D:\\github\\CoolWeatherMaster\\CoolWeatherMaster\\app\\src\\main\\res\\layout\\change_background_fragment.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_activity_net_error.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\src\\main\\res\\layout\\main_activity_net_error.xml"
+        "merged": "D:\\github\\CoolWeatherMaster\\CoolWeatherMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_activity.xml",
+        "source": "D:\\github\\CoolWeatherMaster\\CoolWeatherMaster\\app\\src\\main\\res\\layout\\main_activity.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_gridview_addcity.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\src\\main\\res\\layout\\item_gridview_addcity.xml"
+        "merged": "D:\\github\\CoolWeatherMaster\\CoolWeatherMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_listview_tomorrow.xml",
+        "source": "D:\\github\\CoolWeatherMaster\\CoolWeatherMaster\\app\\src\\main\\res\\layout\\item_listview_tomorrow.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\build\\intermediates\\res\\merged\\debug\\layout\\change_background_fragment.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\src\\main\\res\\layout\\change_background_fragment.xml"
+        "merged": "D:\\github\\CoolWeatherMaster\\CoolWeatherMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bg_pic_grid_item.xml",
+        "source": "D:\\github\\CoolWeatherMaster\\CoolWeatherMaster\\app\\src\\main\\res\\layout\\bg_pic_grid_item.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_gridview_todaycan.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\src\\main\\res\\layout\\item_gridview_todaycan.xml"
+        "merged": "D:\\github\\CoolWeatherMaster\\CoolWeatherMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\addcity_activity.xml",
+        "source": "D:\\github\\CoolWeatherMaster\\CoolWeatherMaster\\app\\src\\main\\res\\layout\\addcity_activity.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_todaycan.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\src\\main\\res\\layout\\gridview_todaycan.xml"
+        "merged": "D:\\github\\CoolWeatherMaster\\CoolWeatherMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about_me_fragment.xml",
+        "source": "D:\\github\\CoolWeatherMaster\\CoolWeatherMaster\\app\\src\\main\\res\\layout\\about_me_fragment.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_activity.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\src\\main\\res\\layout\\gridview_activity.xml"
+        "merged": "D:\\github\\CoolWeatherMaster\\CoolWeatherMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_citymanager.xml",
+        "source": "D:\\github\\CoolWeatherMaster\\CoolWeatherMaster\\app\\src\\main\\res\\layout\\gridview_citymanager.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_gridview_citymanager.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\src\\main\\res\\layout\\item_gridview_citymanager.xml"
+        "merged": "D:\\github\\CoolWeatherMaster\\CoolWeatherMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_gridview_citymanager.xml",
+        "source": "D:\\github\\CoolWeatherMaster\\CoolWeatherMaster\\app\\src\\main\\res\\layout\\item_gridview_citymanager.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tomorrow_weather_activity.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\src\\main\\res\\layout\\tomorrow_weather_activity.xml"
+        "merged": "D:\\github\\CoolWeatherMaster\\CoolWeatherMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_todaycan.xml",
+        "source": "D:\\github\\CoolWeatherMaster\\CoolWeatherMaster\\app\\src\\main\\res\\layout\\gridview_todaycan.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bg_pic_grid_item.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\src\\main\\res\\layout\\bg_pic_grid_item.xml"
+        "merged": "D:\\github\\CoolWeatherMaster\\CoolWeatherMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\exitapp_dialog.xml",
+        "source": "D:\\github\\CoolWeatherMaster\\CoolWeatherMaster\\app\\src\\main\\res\\layout\\exitapp_dialog.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\build\\intermediates\\res\\merged\\debug\\layout\\citymanager_activity.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\src\\main\\res\\layout\\citymanager_activity.xml"
+        "merged": "D:\\github\\CoolWeatherMaster\\CoolWeatherMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_activity.xml",
+        "source": "D:\\github\\CoolWeatherMaster\\CoolWeatherMaster\\app\\src\\main\\res\\layout\\gridview_activity.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about_me_fragment.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\src\\main\\res\\layout\\about_me_fragment.xml"
+        "merged": "D:\\github\\CoolWeatherMaster\\CoolWeatherMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_title_activity.xml",
+        "source": "D:\\github\\CoolWeatherMaster\\CoolWeatherMaster\\app\\src\\main\\res\\layout\\include_title_activity.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_listview_tomorrow.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\src\\main\\res\\layout\\item_listview_tomorrow.xml"
+        "merged": "D:\\github\\CoolWeatherMaster\\CoolWeatherMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\homepager_activity.xml",
+        "source": "D:\\github\\CoolWeatherMaster\\CoolWeatherMaster\\app\\src\\main\\res\\layout\\homepager_activity.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\build\\intermediates\\res\\merged\\debug\\layout\\exitapp_dialog.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\src\\main\\res\\layout\\exitapp_dialog.xml"
+        "merged": "D:\\github\\CoolWeatherMaster\\CoolWeatherMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tomorrow_weather_activity.xml",
+        "source": "D:\\github\\CoolWeatherMaster\\CoolWeatherMaster\\app\\src\\main\\res\\layout\\tomorrow_weather_activity.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_citymanager.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\CoolWeather-master\\able\\app\\src\\main\\res\\layout\\gridview_citymanager.xml"
+        "merged": "D:\\github\\CoolWeatherMaster\\CoolWeatherMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_gridview_todaycan.xml",
+        "source": "D:\\github\\CoolWeatherMaster\\CoolWeatherMaster\\app\\src\\main\\res\\layout\\item_gridview_todaycan.xml"
     }
 ]

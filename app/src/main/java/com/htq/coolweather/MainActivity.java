@@ -121,7 +121,7 @@ public class MainActivity extends FragmentActivity implements
                     refresh();
 
                 } else {
-                    Toast.makeText(getApplicationContext(), "网络未连接，请检查网络设置", 0).show();
+                    Toast.makeText(getApplicationContext(), "网络未连接，请检查网络设置", Toast.LENGTH_LONG).show();
                 }
 
                 break;
@@ -133,10 +133,10 @@ public class MainActivity extends FragmentActivity implements
                 switchLeftLayout();
                 switchFragment(citymanager, null);
                 break;
-            case R.id.btn_change_bag:
+/*            case R.id.btn_change_bag:
                 switchLeftLayout();
                 switchFragment(new ChangeBackgroundFragment(), null);
-                break;
+                break;*/
             case R.id.btn_about:
                 switchLeftLayout();
                 switchFragment(new AboutMeFragment(), null);

@@ -31,23 +31,13 @@
         android:layout_centerHorizontal="true"
         android:textColor="#000"
         android:textSize="20sp"
-        android:text="@string/author" />
+        android:text="酷我天气 @ 金州大组" />
 
-    <TextView
-        android:id="@+id/textView2"
-        android:layout_marginTop="30dp"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/textView1"
-        android:layout_centerHorizontal="true"
-        android:textColor="#000"
-        android:textSize="20sp"
-        android:text="关于作者：" />
 
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/textView2"
+        android:layout_below="@+id/textView1"
         android:layout_marginTop="10dp">
 
         <com.htq.coolweather.utils.CircleImageView
@@ -56,18 +46,31 @@
             android:layout_height="wrap_content"
             android:layout_alignParentLeft="true"
             android:layout_alignParentTop="true"
-            android:src="@drawable/mine_avatar" />
-
-        <TextView
-            android:id="@+id/about_me_tv"
-            android:textColor="#000"
-            android:textSize="20sp"
+            android:src="@drawable/longz"
+            android:layout_centerVertical="true"/>
+        <LinearLayout
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_centerVertical="true"
-            android:layout_marginLeft="10dp"
+            android:orientation="vertical"
             android:layout_toRightOf="@+id/imageView2"
-            android:text="@string/about_me" />
+            android:layout_marginLeft="10dp"
+            android:layout_centerVertical="true">
+            <TextView
+                android:id="@+id/about_me_tv"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/groupdes"/>
+            <TextView
+                android:id="@+id/about_me_tv1"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/groupnum"/>
+        </LinearLayout>
+
 
     </RelativeLayout>
 </RelativeLayout>
